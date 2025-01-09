@@ -1,0 +1,49 @@
+body{
+    background-color:#2b2eff;
+}
+.blanc{
+     display:fixed;
+    text-align:center;
+    margin-top:120px;
+    width: 100px;
+    height:100px ;
+    border-radius:70px;
+    background-color:#d5fff4;
+    margin-left:95px;
+    padding: 100px;
+    
+}
+h1{
+  padding: 100px;  
+   margin-top:100px;
+    width: 90px;
+    height:90px ;
+    border-radius:200px;
+    color:#d5f4ff;
+    size:30px;
+}
+.deu{
+    background-color:#2b2eff;
+    text-align:center;
+    width: 50px;
+    height:50px ;
+    border-radius:200px;
+    padding: 100px;
+    margin-top:-80px;
+    margin-left:-80px;
+    margin-right:-80px;
+    margin-bottom:-100px;
+    display :center;
+    
+    
+    
+}
+img{
+   margin-top:-80px;
+    margin-left:-80px;
+    margin-right:-80px;
+    margin-bottom:-100px; 
+}
+a{
+    text-decoration:0;
+}
